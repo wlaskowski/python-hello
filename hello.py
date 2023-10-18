@@ -1,1 +1,1 @@
-print "Hello Wiktor!"
+print "Team members: Wojtek, Basia"
